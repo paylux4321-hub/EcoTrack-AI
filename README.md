@@ -1,6 +1,9 @@
 # EcoTrack-AI
 AI project to monitor and reduce environmental footprint
 
+## Summary
+EcoTrack AI helps individuals and communities monitor and reduce their environmental footprint using AI-powered data analysis. It tracks energy usage, waste, and resource consumption to suggest actionable improvements.
+
 ```python
 def calculate_footprint(electricity_kwh, water_liters, waste_kg):
     # Sample function to calculate environmental impact
